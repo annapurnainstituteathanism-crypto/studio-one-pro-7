@@ -1,0 +1,10 @@
+# Normalize line endings
+vendor/* linguist-vendored
+*.min.css linguist-generated
+
+* text=auto eol=lf
+src/*.astro linguist-detectable
+*.jpeg binary
+*.astro linguist-detectable
+
+*.html linguist-vendored
